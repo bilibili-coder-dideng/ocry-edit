@@ -1,6 +1,6 @@
 # OcryEdit
 
-作者：**kclg-YSJ** 原作者：**cmdysj**。本项目是在原 **Re:PhiEdit Next** 项目基础上，使用 **AI（DeepSeej）** 进行的重构，是 Ocrythm 的官方制谱器。
+作者：**kclg-YSJ** 原作者：**cmdysj**。本项目是在原 **Re:PhiEdit Next** 项目基础上，使用 **AI（DeepSeek）** 进行的重构，是 Ocrythm 的官方制谱器。
 
 当前版本：**0.0.1**。
 
